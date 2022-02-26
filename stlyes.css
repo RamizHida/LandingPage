@@ -1,0 +1,157 @@
+/* Section 1 */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+h2,
+p {
+  width: 550px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 80px;
+  font-size: larger;
+  margin-left: auto;
+  margin-right: 124px;
+}
+li {
+  font-size: 40px;
+}
+
+header {
+  background-color: #1f2937;
+  box-sizing: border-box;
+  padding: 10px 150px;
+  margin: 0;
+}
+
+.toplinks {
+  display: flex;
+  align-items: center;
+}
+
+.header-left,
+li,
+.lo {
+  display: flex;
+  flex-direction: column;
+  padding-right: 0;
+  color: #f9faf8;
+}
+
+button {
+  width: 300px;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: #3882f6;
+  border-radius: 25px;
+  margin-top: 0px;
+}
+
+/* img {
+  display: block;
+  margin-top: -200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 70px;
+  width: 500px;
+  height: 360px;
+} */
+
+/* Section 2 */
+.sectionTwo {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 30px;
+}
+
+.tilsectwo {
+  text-align: center;
+}
+.tilsectwo,
+.txt {
+  color: #1f2937;
+}
+
+.txt {
+  max-width: 200px;
+}
+
+/* Section 3 */
+.secthree {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e5e7eb;
+  /* text-align: center; */
+  /* padding-left: 300px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #1f2937;
+  font-size: 46px;
+  /* width: 400px; */
+}
+
+#quote {
+  /* margin-left: 300px; */
+  margin-top: -10px;
+  margin-left: 300px;
+  font-size: 24px;
+}
+#quopar {
+  width: 700px;
+}
+
+/* Section 4 */
+.secfour {
+  /* text-align: center; */
+  box-sizing: border-box;
+  background-color: #3882f6;
+  margin-left: 400px;
+  padding: 10px 80px;
+  margin: 30px 355px;
+  border-radius: 25px;
+  color: white;
+  font-size: 24px;
+  height: 200px;
+}
+
+#botsign {
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 200px;
+  margin-left: 100px;
+  padding: 5px 5px;
+  border-color: white;
+  border-style: solid;
+}
+
+.pp {
+  display: flex;
+  justify-content: center;
+}
+
+#act {
+  margin-left: 29px;
+  margin-bottom: -25px;
+}
+
+/* Section 5 */
+
+footer {
+  text-align: center;
+  background-color: #1f2937;
+  padding: 40px 20px;
+  color: #e5e7eb;
+  font-size: 24px;
+}
